@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="Logo" src="https://github.com/VietAnhh/twilio-angular2/blob/master/webpage.png" width="100">
+    <img alt="Logo" src="https://github.com/VietAnhh/twilio-angular2/blob/master/webpage.png" width="100%">
   </a>
 </p>
 
