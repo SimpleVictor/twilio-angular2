@@ -1,6 +1,10 @@
 ## Twilio with Angular 2
 
-![Picture](https://raw.github.com/VietAnhh/twilio-angular2/blob/master/webpage.png)
+<p align="center">
+  <a href="">
+    <img alt="Logo" src="https://github.com/VietAnhh/twilio-angular2/blob/master/webpage.png" width="100">
+  </a>
+</p>
 
 - Angular 2 rc.4
 - Express
