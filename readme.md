@@ -19,3 +19,5 @@ npm run develop
 
 # Applciation url: http://localhost:3000
 ```
+Checks
+```
